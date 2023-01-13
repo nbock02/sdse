@@ -1,0 +1,1 @@
+Referring to the histogram, work with your group to complete questions 1 – 6 on your Google Doc.

@@ -1,0 +1,2 @@
+One last plot! The histogram at the bottom now shows the distribution of sample means for both genres (again for samples containing 100 data points)! Woohoo!
+**Keep smashing the "draw data point" button. What happens?** As before, increase the number of data points drawn to make things move more quickly.

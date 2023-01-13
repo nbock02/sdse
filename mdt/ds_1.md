@@ -1,0 +1,1 @@
+Click on the "Draw data point" button a couple of times. What happens?

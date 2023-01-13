@@ -1,0 +1,1 @@
+**Pro tip!** you can search through the list of 4000 genres by typing text into the dropdown menus.

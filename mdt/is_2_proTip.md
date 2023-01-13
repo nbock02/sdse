@@ -1,0 +1,1 @@
+**Pro tip!** You can increase the number of samples drawn with each click using the "# of data points to draw" dropdown menu on the left!

@@ -1,0 +1,2 @@
+The line plot will store sample means from multiple samples. **Increase the # of data points to draw, then keep clicking the "Draw data point"
+button until you have drawn more than 100 data points. What happens on the line plot?**

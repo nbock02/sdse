@@ -1,0 +1,2 @@
+One more piece of complexity! The histogram at the bottom now shows the distribution of sample means (for samples containing 100 data points). **Increase the number of data points drawn to 25 and press the "draw data point" button a bunch of times.
+What happens on the bottom histogram?**
